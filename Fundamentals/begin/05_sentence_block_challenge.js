@@ -1,6 +1,6 @@
-//Desafio 1
+//Challenge 1
 
-console.log("Números ímpares")
+console.log("Odd numbers:")
 {
     console.log(1);
     console.log(3);
@@ -8,7 +8,9 @@ console.log("Números ímpares")
     console.log(7);
     console.log(9);
 }
-console.log("Números pares")
+
+console.log(" ")
+console.log("Even numbers:")
 {
     console.log(2);
     console.log(4);
