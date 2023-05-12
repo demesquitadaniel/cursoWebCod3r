@@ -8,6 +8,7 @@ printSum(2)
 printSum(2, 10, 5, 4, 4)
 printSum()
 
+
 // Function with return:
 function sum(a, b = 1) {
     return a + b
