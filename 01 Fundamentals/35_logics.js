@@ -28,4 +28,4 @@ function buying(work1, work2) {
 console.log(buying(true, true))
 console.log(buying(true, false))
 console.log(buying(false, true))
-console.log(buying(false, false))
+ console.log(buying(false, false))
