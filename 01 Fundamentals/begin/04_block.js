@@ -1,6 +1,5 @@
-// A code block should, obligatorily, contain an opening '{' and a closure '}'.
-// These blocks can be compacted to make readability easier, clicking on
-// the down arrow on the side of the starting brackets.
+// A code block should, obligatorily, contain an opening bracket ({) and a closure one (})
+// These blocks can be compacted to make readability easier, clicking on the down arrow on the side of the starting brackets.
 
 {
     console.log("Testimony #01");
