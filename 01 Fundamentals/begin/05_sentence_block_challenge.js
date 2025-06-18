@@ -18,3 +18,29 @@ console.log("Even numbers:")
     console.log(8);
     console.log(10);
 }
+
+console.log(" ")
+console.log("Odd numbers:")
+let odd = 1;
+console.log(odd);
+odd++; odd++;
+console.log(odd);
+odd++; odd++;
+console.log(odd);
+odd++; odd++;
+console.log(odd);
+odd++; odd++;
+console.log(odd);
+console.log(" ")
+
+console.log("Even numbers:")
+let even = 2;
+console.log(even);
+even++; even++;
+console.log(even);
+even++; even++;
+console.log(even);
+even++; even++;
+console.log(even);
+even++; even++;
+console.log(even);

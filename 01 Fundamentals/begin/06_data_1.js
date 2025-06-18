@@ -6,17 +6,17 @@ console.log(1.5);
 console.log(7.9);
 */
 
-let productName = 'Pen'; // mey use "var" or "let", it makes no difference at this point.
+let productName = 'Pen'; // We may use "var" or "let", it makes no difference at this point (beginning of the course).
 var quantity = 10;
 let price = 6.4;
 var tax = 1.5;
 let finalPrice = price + tax;
-
 console.log(productName);
+
 console.log(quantity);
 console.log(price);
 console.log(tax);
 console.log(finalPrice);
 
-productName = "BIC Pen"
+productName = "Pen 'BIC'"; // You can use single quotes inside double quotes.
 console.log(productName);
