@@ -1,5 +1,5 @@
 let age = 31; 
-console.log(typeof 31);
+console.log(typeof -31);
 console.log(typeof age);
 
 let salary = 4578.32;

@@ -1,8 +1,8 @@
 // The area of a circumference
 // Pi 8 radius to the 2nd potence, or radius times radius.
 
-const radius = 10;
-let PI = 3.141592;
+let radius = 10;
+const PI = 3.141592;
 let area = PI * (radius * radius);
 
 console.log("Circumference Radius: " + radius + " m");
