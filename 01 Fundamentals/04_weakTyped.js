@@ -1,4 +1,5 @@
-let any = 'Cool'
+let any
+any = 'Cool'
 console.log(any)
 console.log(typeof any)
 
@@ -9,4 +10,4 @@ console.log(typeof any)
 // Avoid generic names, acronyms, and symbols. Examples:
 let value = ''
 let number = 1
-let wtf = false // Weak Typed Fonts (...)
+let wtf = false // WTF is 'Weak Typed Fonts'... What did you thought?! (...)
