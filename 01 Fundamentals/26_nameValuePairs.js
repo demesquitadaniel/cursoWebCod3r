@@ -1,4 +1,4 @@
-// name/value pairs
+// name/value pair
 const salute = 'Hey'; // lexical context 1
 
 function exec() {
@@ -8,12 +8,12 @@ function exec() {
 
 // Objects are groups of information paired as name/value:
 const client = {
-    clientName: 'Peter',
-    clientAge: 32,
-    clientWeight: 90,
-    clientAddress: {
-        address: 'Very Nice Street',
-        number: 123
+    Name: 'Peter',
+    Age: 32,
+    Weight: 90,
+    Address: {
+        street: 'Rua dos Bobos',
+        number: 0
     }
 }
 
