@@ -1,8 +1,12 @@
-const result = grade => grade >= 7 ? 'Approved' : 'Unapproved';
-
+const result = grade => grade >= 7 ? 'Approved' : 'Not Approved';
 //  Which is the same as:
+// const result = grade;
+// grade => {
+//    return grade >= 7 ? 'Approved' : 'Not Approved';
+//  }
+//  Or even:
 //  const result = grade => {
-//      return grade >= 7 ? 'Approved' : 'Unapproved';
+//      return grade >= 7 ? 'Approved' : 'Not Approved';
 //  }
 
 console.log(result(7.1))
