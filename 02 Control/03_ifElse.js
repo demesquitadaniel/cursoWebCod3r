@@ -1,8 +1,11 @@
+// Control structures in JavaScript
+// if-else statement
+
 const printResult = function(grade) {
     if(grade >= 7) {
         console.log('Approved!')
     } else {
-        console.log('Disapproved!')
+        console.log('Not Approved!')
     }
 }
 
